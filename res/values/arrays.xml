@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_img_human_readable">       
+        <item>Bug</item>
+        <item>Default</item>
+        <item>Sky</item>
+        <item>Space</item>
+    </string-array>
+    <string-array name="pref_img_url">
+        <item>http://www.pcs.cnu.edu/~kperkins/bug.png</item>
+        <item>default</item>
+        <item>http://www.pcs.cnu.edu/~kperkins/sky.png</item>
+        <item>http://www.pcs.cnu.edu/~kperkins/space.png</item>
+    </string-array>
+</resources>

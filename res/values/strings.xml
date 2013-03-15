@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Quintus</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="pref_category">Backgroud Chooser</string>
     <string name="pref_img_dialogtitle">Select Image</string>
-    <string name="pref_img">Background</string>
-    <string name="menu_item_settings">Settings</string>
-
+    <string name="pref_img">Select Background</string>
+    <string name="pref_default">default</string>
+    <string name="pref_img_summary">Select a background image</string>
 </resources>
