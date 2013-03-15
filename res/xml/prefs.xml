@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <EditTextPreference
+        android:defaultValue="10"
+        android:dialogTitle="@string/pref_img_dialogtitle"
+        android:key="TotalAnswers"
+        android:persistent="true"
+        android:title="@string/pref_img" />
+</PreferenceScreen>

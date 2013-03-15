@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quintus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pref_img_dialogtitle">Select Image</string>
+    <string name="pref_img">Background</string>
+    <string name="menu_item_settings">Settings</string>
+
+</resources>
